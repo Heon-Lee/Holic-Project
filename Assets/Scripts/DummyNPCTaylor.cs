@@ -22,6 +22,7 @@ public class DummyNPCTaylor : NPCObjectBase
 
 	public override void Interact()
 	{
+        Debug.Log("!!!@#!@#");
 		SetDialogueData(attribute.nameTag, spriteImage);
 		UserInterfaceManager.instance.PopDialogueUp();
 	}
