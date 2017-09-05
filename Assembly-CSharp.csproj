@@ -77,6 +77,7 @@
      <Compile Include="Assets\Scripts\TestTools\TestSceneManager.cs" />
      <Compile Include="Assets\Scripts\TestTools\TestStickRotation.cs" />
      <Compile Include="Assets\Scripts\UI\JoyStickController.cs" />
+     <Compile Include="Assets\Scripts\UI\UIManager.cs" />
      <None Include="Assets\Resources\13_talk.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>M:/Program Files/Editor/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
