@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d2a405874a77f5d45bd2cbe0b25ca488
+timeCreated: 1504349805
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Andara Uppercase
+  fontNames:
+  - Andara Uppercase
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3d0fe65a8899e4d4fb23573037c5b134, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
