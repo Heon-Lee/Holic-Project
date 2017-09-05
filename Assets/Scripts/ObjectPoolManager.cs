@@ -10,6 +10,7 @@ namespace Holic.Object
 	{
 		public static PoolManager instance = null;
 
+        [SerializeField]
 		public Dictionary<int, Queue<ObjectInstance>> poolDictionary =
 			new Dictionary<int, Queue<ObjectInstance>>();
 
